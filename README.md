@@ -1,0 +1,2 @@
+# blogres
+blog static res
